@@ -35,8 +35,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ngithub,python,javascript,c" /><br>
-    <img src="https://skillicons.dev/icons?i=tkinter,mysql,html,css,vscode,git" />
+<!--     <img src="https://skillicons.dev/icons?i=ngithub,python,javascript,c" /><br> -->
+<!--     <img src="https://skillicons.dev/icons?i=tkinter,mysql,html,css,vscode,git" /> -->
+    <a>
+    <img src="https://img.shields.io/badge/github-4E5EE4?logo=github&logoColor=fff&style=for-the-badge"/>
+    </a>
 </div>
 
 <br/>
