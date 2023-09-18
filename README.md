@@ -16,8 +16,9 @@
 
  💬 Ask me about **Bug Bounty, Cyber Security, Kali Linux, Tkinter... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fact **Data Privacy is a Fundamental Right**
- ⚡ Myth **Your Privacy**
+ ⚡ Fact:  **Data Privacy is a Fundamental Right**
+ <br>
+ ⚡ Myth:  **Your Privacy**
  
  </div>
  
@@ -35,10 +36,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<!--     <img src="https://skillicons.dev/icons?i=ngithub,python,javascript,c" /><br> -->
-<!--     <img src="https://skillicons.dev/icons?i=tkinter,mysql,html,css,vscode,git" /> -->
     <a>
-    <img src="https://img.shields.io/badge/github-4E5EE4?logo=github&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/python-005571?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c-5091CD?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html-4E5EE4?logo=HTML&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    </a>
+    <a>
+    <img src="https://img.shields.io/badge/tkinter-333?style=for-the-badge&logo=Tkinter(Python)&logoColor=0093DD"/>
     </a>
 </div>
 
