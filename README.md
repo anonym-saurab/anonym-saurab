@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Cyber Security, Kali Linux, (Python)Tkinter**
 
- 💬 Ask me about **Bug Bounty, Cyber Security, Kali Linux, Tkinter... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Bug Bounty, Cyber Security, Kali Linux, Tkinter... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
 
  ⚡ Fact:  **Data Privacy is a Fundamental Right**
  <br>
