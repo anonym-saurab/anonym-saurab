@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Bug Bounty**
+ 🔭 I’m currently working on **cyber-security & network-security**
  
  🌱 I’m currently learning **Cyber Security, Kali Linux, (Python)Tkinter**
 
