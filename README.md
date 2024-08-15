@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **cyber-security & network-security**
  
- 🌱 I’m currently learning **Cyber Security, Kali Linux, (Python)Django**
+ 🌱 I’m currently learning **(Python)Django**
 
- 💬 Ask me about **Bug Bounty, Cyber Security, Kali Linux, Tkinter... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
+ 💬 Ask me about **Cyber Security, Kali Linux, Python, Tkinter, Django... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
 
  ⚡ Fact:  **Data Privacy is a Fundamental Right**
  <br>
@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:secretdekcah5427@gmail.com">
+  <a href="mailto:226320075@gkv.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/anonym-saurab2729/" target="_blank">
@@ -37,10 +37,10 @@
 <br/>
 <div align="center">
     <a>
-    <img src="https://img.shields.io/badge/python-005571?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c-5091CD?style=for-the-badge&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html-4E5EE4?logo=HTML&logoColor=fff&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html-005571?style=for-the-badge&logo=HTML&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-5091CD?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-4E5EE4?logo=Django&logoColor=fff&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     </a>
     <a>
     <img src="https://img.shields.io/badge/tkinter-333?style=for-the-badge&logo=Tkinter(Python)&logoColor=0093DD"/>
@@ -88,4 +88,6 @@
 </h3>
 
 <br/>
+    
 
+   
