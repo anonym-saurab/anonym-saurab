@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Saurab!;" />
 </h1>
 
-<h3 align="center">A passionate cyber security undergrade from India 🇮🇳</h3>
+<h3 align="center">A passionate backend developer from India 🇮🇳</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **cyber-security & network-security**
  
- 🌱 I’m currently learning **Cyber Security, Kali Linux, (Python)Tkinter**
+ 🌱 I’m currently learning **Cyber Security, Kali Linux, (Python)Django**
 
  💬 Ask me about **Bug Bounty, Cyber Security, Kali Linux, Tkinter... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
 
