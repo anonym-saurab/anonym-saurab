@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Saurab!;" />
 </h1>
 
-<h3 align="center">A passionate backend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Cyber Security student from India 🇮🇳</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **cyber-security & network-security**
  
- 🌱 I’m currently learning **(Python)Django**
+ 🌱 I’m currently learning **practicals on Offensive Security**
 
- 💬 Ask me about **Cyber Security, Kali Linux, Python, Tkinter, Django... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
+ 💬 Ask me about **Cyber Security, Kali Linux, Python ... or anything [here](https://github.com/anonym-saurab/anonym-saurab/issues)**
 
  ⚡ Fact:  **Data Privacy is a Fundamental Right**
  <br>
@@ -37,10 +37,7 @@
 <br/>
 <div align="center">
     <a>
-    <img src="https://img.shields.io/badge/html-005571?style=for-the-badge&logo=HTML&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-5091CD?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/django-4E5EE4?logo=Django&logoColor=fff&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     </a>
     <a>
     <img src="https://img.shields.io/badge/tkinter-333?style=for-the-badge&logo=Tkinter(Python)&logoColor=0093DD"/>
