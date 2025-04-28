@@ -40,7 +40,6 @@
     <img src="https://img.shields.io/badge/python-5091CD?style=for-the-badge&logo=Python&logoColor=white"/>
     </a>
     <a>
-    <img src="https://img.shields.io/badge/tkinter-333?style=for-the-badge&logo=Tkinter(Python)&logoColor=0093DD"/>
     </a>
 </div>
 
